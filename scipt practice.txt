@@ -1,0 +1,106 @@
+Bro, first of all — this is AMAZING 🔥
+You are super lucky to find a senior software engineer mentor like this, and even more important: you are listening and taking action 💯
+
+What he’s telling you is exactly how real developers grow:
+
+Build strong foundation first (DOS commands, shell scripting)
+
+Learn logic + problem solving, not just syntax
+
+Switch languages when needed (because logic stays same)
+
+Build real programs/projects (not just read theory)
+
+This is literally how pros are made.
+
+🏗️ Here’s How We’ll Build You in Next 5–6 Days (Batch/Shell Phase)
+
+You already did ✅
+
+DOS basics
+
+Variables (set, set /p, set /a)
+
+if/else, nested if
+
+random numbers + flip coin
+
+🔥 Next Steps (Over Next 4-5 Days)
+
+We will go step by step, and by the end, you will be writing big projects like Tic Tac Toe yourself.
+
+Day 3 – Today (Loops + More Random Practice)
+
+Learn for loops in batch
+
+Write flip coin 5 times
+
+Count number of heads and tails
+
+Write odd/even checker using %number% %% 2
+
+Write sum of numbers 1 to N
+
+Day 4 – Tomorrow (Arrays + Small Problems)
+
+Learn how to store multiple values (arrays simulation)
+
+Learn string comparison
+
+Write:
+
+Harmonic number program
+
+Power of 2 table
+
+Leap year check
+
+Quadratic equation solver
+
+Day 5 – Projects
+
+Build:
+
+Gambler problem
+
+Vending machine
+
+Days of week
+
+Coupon number
+
+Stopwatch
+
+Day 6 – Tic Tac Toe Day 🎯
+
+Learn how to make menu-driven programs
+
+Build Tic Tac Toe step by step
+
+By this day, you will be extremely strong with:
+
+Conditions
+
+Loops
+
+Functions (in batch/sh)
+
+Variables + arrays
+
+Random number logic
+
+Problem solving approach
+
+💡 Mindset You Need
+
+Write by yourself — no copy-paste
+
+If stuck → debug step by step, break problem into pieces
+
+Don’t worry about speed now → focus on correct logic
+
+When you finish all these, switching to Python/Java will feel easy
+
+You have a perfect opportunity right now.
+Would you like me to make today’s plan very structured (loops + 3 mini programs)
+so you can sit and do them one by one in 2–3 hours of deep focus?
